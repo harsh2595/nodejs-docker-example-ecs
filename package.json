@@ -15,5 +15,15 @@
   "devDependencies": {
     "@types/express": "^4.17.20",
     "typescript": "^5.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh2595/nodejs-docker-example-ecs.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/harsh2595/nodejs-docker-example-ecs/issues"
+  },
+  "homepage": "https://github.com/harsh2595/nodejs-docker-example-ecs#readme"
 }
